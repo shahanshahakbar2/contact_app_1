@@ -1,0 +1,9 @@
+-> controller  = separately access and it control logical parts. control http request like to delete,create new data and update data.
+
+-> View create frontend part like React apllication (Integerated frontend)
+
+-> model = scima design the database structure, the validation created in model
+
+-> route - controller  connect to the route path
+
+
